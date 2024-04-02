@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning React Native
-- 👯 I'm working on Front-End project
+- 👯 I'm working on Mobile App Project
 - 📫 How to reach me: gustavo.ara2005.p@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuAra05&show_icons=true&theme=radical&locale=en&layout=compact" alt="GuAra05" /></p>
