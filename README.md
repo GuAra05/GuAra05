@@ -1,7 +1,7 @@
 ## Hi👋, I'm Gustavo Ara
 
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning React Native
 - 👯 I'm working on Front-End project
 - 📫 How to reach me: gustavo.ara2005.p@gmail.com
 
